@@ -1,3 +1,6 @@
+<img width="2400" height="840" alt="subseven-banner" src="https://github.com/user-attachments/assets/57412676-fab7-4115-937b-f528aabdddaf" />
+
+
 # SubSeven – Subdomain Tarayıcı
 
 Sertifika şeffaflığı (Certificate Transparency) kayıtları ve DNS çözümlemesi ile bir alan adının alt alan adlarını (subdomain) keşfeden, isteğe bağlı olarak bulunan hostların HTTP(S) yanıtlarını kontrol eden hafif bir Python aracıdır.
