@@ -124,4 +124,4 @@ www.example.com   93.184.216.34   200 https, ...   Example Domain
 
 ## Lisans
 
-Lisans bilgisini buraya ekleyin (ör. MIT).
+MIT license.
