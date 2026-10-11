@@ -23,7 +23,7 @@ Sertifika şeffaflığı (Certificate Transparency) kayıtları ve DNS çözüml
 
 ```bash
 git clone https://github.com/f3nr1rs3c/Subseven.git
-cd <depo-adi>
+cd Subseven
 python3 subseven.py --help
 ```
 
